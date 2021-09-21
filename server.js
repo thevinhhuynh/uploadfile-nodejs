@@ -5,7 +5,7 @@ const folder = './uploads/';
  
 const viewFormUpload = fs.readFileSync('./viewUploadForm.html')
  
-//Khởi tạo server
+//Init server
 http.createServer(function (req, res) {
   if (req.url == '/upload' && req.method == 'POST') {
     const option = {
