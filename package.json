@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-server",
+    "version": "14.17.6",
+    "description": "NodeJS Server Simple",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "keywords": [
+      "NodeJS",
+      "NodeJS",
+      "Server"
+    ],
+    "author": "huynhthevinh1003@gmail.com",
+    "license": "ISC"
+  }
